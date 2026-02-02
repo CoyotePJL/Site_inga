@@ -28,6 +28,7 @@ img{
     display: inline-block;
     margin: 10px;
     font-family: sans-serif;
+    align-items: center;
 }
 
 .botao-instagram {
@@ -39,6 +40,7 @@ img{
     display: inline-block;
     margin: 10px;
     font-family: sans-serif;
+    align-items: center;
 }
 .contato i {
     margin-right: 8px; /* Dá um espaço entre o ícone e o texto */
